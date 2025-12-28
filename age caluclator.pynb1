@@ -1,0 +1,12 @@
+
+Age Calculator  :
+
+The **Age Calculator** is a simple yet useful application that allows users to calculate their exact age in years, months, and days based on their date of birth. It provides a quick way to determine how old someone is today or on a specific date.  
+
+ Features  
+- Input date of birth using a calendar or manual entry.  
+- Calculates age in " years, months, and days " 
+- Displays the " next birthday countdown "  
+- User-friendly interface with clear results.  
+- Can be extended to show zodiac signs or day of the week of birth.  
+
